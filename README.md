@@ -1,4 +1,4 @@
-# 🏡 Airbnb Clone – Full Stack Web Application
+# 🏡 AVENTURA – Full Stack Web Application
 
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![Express](https://img.shields.io/badge/Express.js-Framework-lightgrey)
