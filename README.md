@@ -140,14 +140,6 @@ http://localhost:5000
 - Upload listing images
 - Edit and delete listings (host access)
 
-## 🔎 Search & Filters
-- Search listings by keywords
-- Filter listings for easier discovery
-
-## 📅 Booking System
-- Users can book available listings
-- Booking information stored in the database
-
 ## ⭐ Reviews & Ratings
 - Users can leave reviews
 - Ratings help other users evaluate listings
